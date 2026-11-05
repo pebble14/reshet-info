@@ -13,6 +13,12 @@ Reshet는 성경 원어 단어의 뜻과 관계를 탐구하는 도구입니다.
 
 Windows와 Android에서 사용하는 앱입니다. 데이터는 로컬 SQLite에 저장하며, 뜻풀이·메모·관계는 계속 연구하고 검토합니다.
 
+## 소개 영상
+
+[성경 원어, 뜻에서 관계로 | Reshet Windows 공개 베타](https://youtu.be/dnk0g0TkheQ)
+
+36초 영상으로 단어의 뜻과 관계 그래프를 탐색하는 모습을 살펴보세요.
+
 ## Windows 공개 베타 다운로드
 
 [Reshet 1.0.0-beta.1 — Windows x64 배포 페이지](https://github.com/pebble14/reshet_app/releases/tag/v1.0.0-beta.1)
